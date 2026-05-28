@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="p8qmiIVxrrPyoyP2OEKR">
-    <mxGraphModel dx="860" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1720" dy="930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
         <mxCell id="RDLP9FO2d5M8njvfW2jz-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Seleção (Projeto, Ciclo, Resource)&lt;/font&gt;" vertex="1">
           <mxGeometry height="100" width="120" x="350" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="RDLP9FO2d5M8njvfW2jz-19" edge="1" parent="1" source="RDLP9FO2d5M8njvfW2jz-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RDLP9FO2d5M8njvfW2jz-7">
+        <mxCell id="39Xau_F-mO9StMA48ONJ-2" edge="1" parent="1" source="RDLP9FO2d5M8njvfW2jz-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RDLP9FO2d5M8njvfW2jz-7" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RDLP9FO2d5M8njvfW2jz-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Upload Excel  " vertex="1">
@@ -38,40 +38,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RDLP9FO2d5M8njvfW2jz-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value=" Backend MIGNOW&amp;nbsp;&lt;div&gt;Leitura do Excel&lt;div&gt;&amp;nbsp;Parsing Regras  &lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="180" x="320" y="680" as="geometry" />
+          <mxGeometry height="60" width="180" x="570" y="590" as="geometry" />
         </mxCell>
         <mxCell id="RDLP9FO2d5M8njvfW2jz-21" edge="1" parent="1" source="RDLP9FO2d5M8njvfW2jz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="RDLP9FO2d5M8njvfW2jz-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RDLP9FO2d5M8njvfW2jz-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;nbsp;Leitura Último Run SAP ATC" vertex="1">
-          <mxGeometry height="60" width="180" x="320" y="780" as="geometry" />
+          <mxGeometry height="60" width="180" x="570" y="710" as="geometry" />
         </mxCell>
         <mxCell id="RDLP9FO2d5M8njvfW2jz-22" edge="1" parent="1" source="RDLP9FO2d5M8njvfW2jz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="RDLP9FO2d5M8njvfW2jz-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RDLP9FO2d5M8njvfW2jz-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Processamento das&amp;nbsp; Regras e Filtros Baselineáveis " vertex="1">
-          <mxGeometry height="60" width="180" x="320" y="880" as="geometry" />
+          <mxGeometry height="60" width="180" x="570" y="810" as="geometry" />
         </mxCell>
         <mxCell id="RDLP9FO2d5M8njvfW2jz-23" edge="1" parent="1" source="RDLP9FO2d5M8njvfW2jz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RDLP9FO2d5M8njvfW2jz-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RDLP9FO2d5M8njvfW2jz-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Classes Standard SAP" vertex="1">
-          <mxGeometry height="60" width="180" x="320" y="980" as="geometry" />
+          <mxGeometry height="60" width="180" x="570" y="910" as="geometry" />
         </mxCell>
         <mxCell id="RDLP9FO2d5M8njvfW2jz-24" edge="1" parent="1" source="RDLP9FO2d5M8njvfW2jz-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RDLP9FO2d5M8njvfW2jz-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RDLP9FO2d5M8njvfW2jz-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Criação Automática dos Baselines no SAP   " vertex="1">
-          <mxGeometry height="60" width="180" x="320" y="1070" as="geometry" />
+          <mxGeometry height="60" width="180" x="570" y="1000" as="geometry" />
         </mxCell>
         <mxCell id="RDLP9FO2d5M8njvfW2jz-25" edge="1" parent="1" source="RDLP9FO2d5M8njvfW2jz-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RDLP9FO2d5M8njvfW2jz-13" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RDLP9FO2d5M8njvfW2jz-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Retorno de Logs Status / Reports" vertex="1">
-          <mxGeometry height="60" width="180" x="320" y="1160" as="geometry" />
+          <mxGeometry height="60" width="180" x="570" y="1080" as="geometry" />
         </mxCell>
         <mxCell id="RDLP9FO2d5M8njvfW2jz-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Atualização Portal&amp;nbsp;&lt;div&gt;Pending /&amp;nbsp; Processing / Done / Failed&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="180" x="320" y="1260" as="geometry" />
+          <mxGeometry height="60" width="180" x="570" y="1160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
